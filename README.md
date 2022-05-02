@@ -10,4 +10,4 @@ When using machine learning or neural networks on data, one must first split the
 ### Compiling, Training, and Evaluation the Model
 - The initial neural network model I used had 2 layers with 4 neurons in layer 1 and 8 in layer 2. 
 - This initial NN didn't perform very well with an accuracy of only 
-![https://github.com/ryanstaudhammer/Neural_Network_Charity_Analysis/blob/main/Resources/1stModel.png]
+![](https://github.com/ryanstaudhammer/Neural_Network_Charity_Analysis/blob/main/Resources/1stModel.png)
