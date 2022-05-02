@@ -19,4 +19,4 @@ Next machine learning was evaluated to compare results. I tried to use three mac
 - Logistic Regression fell short, but Random Forest didn't do so bad. The final NN model with more neurons performed the best:
 ![](https://github.com/ryanstaudhammer/Neural_Network_Charity_Analysis/blob/main/Resources/NNModel.png)
 ## Summary
-It appears the Neural Network model performed best when enough epochs and neurons were added with an accuracy rating of  , still short of the goal, but the best performing model. 
+It appears the Neural Network model performed best when enough epochs and neurons were added with an accuracy rating of 72.7%, still short of the goal, but the best performing model. 
