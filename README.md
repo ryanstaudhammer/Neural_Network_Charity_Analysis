@@ -8,4 +8,6 @@ When using machine learning or neural networks on data, one must first split the
 - Features in determining this were application type, affiliation, classification, use case, organization, income amount, and the asking amount. 
 - Two variable were irrelevant and removed: identification number and name
 ### Compiling, Training, and Evaluation the Model
-- 
+- The initial neural network model I used had 2 layers with 4 neurons in layer 1 and 8 in layer 2. 
+- This initial NN didn't perform very well with an accuracy of only 
+![https://github.com/ryanstaudhammer/Neural_Network_Charity_Analysis/blob/main/Resources/1stModel.png]
