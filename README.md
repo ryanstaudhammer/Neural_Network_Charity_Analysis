@@ -9,9 +9,9 @@ When using machine learning or neural networks on data, one must first split the
 - Two variable were irrelevant and removed: identification number and name
 ### Compiling, Training, and Evaluation the Model
 - The initial neural network model I used had 2 layers with 4 neurons in layer 1 and 8 in layer 2. 
-- This initial NN didn't perform very well with an accuracy of only 46.8% with 50 epochs
+- This initial NN didn't perform very well with an accuracy of only 50.9% with 50 epochs
 ![](https://github.com/ryanstaudhammer/Neural_Network_Charity_Analysis/blob/main/Resources/1stModel.png)
-- The same model was run again with 100 epochs and much better results at 71.1% accuaracy
+- The same model was run again with 100 epochs and much better results at 72.9% accuaracy
 ![](https://github.com/ryanstaudhammer/Neural_Network_Charity_Analysis/blob/main/Resources/2ndModel.png)
 Next machine learning was evaluated to compare results. I tried to use three machine learning models: Logistic Regression, Random Forest Classifier, and Support Vector Machine but I had to ditch the SVM model because I couldn't get it to work, so instead I added another NN model with more neurons.
 - The results from Logistic Regression and Random Forest models:
