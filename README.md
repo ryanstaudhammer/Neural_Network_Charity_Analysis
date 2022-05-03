@@ -1,4 +1,4 @@
-# Neural_Network_Charity_Analysis
+# Neural Network Charity Analysis
 ## Overview
 In this module we explored the accuracy of neural networks. Given a set of data we were able to run models in order to see which model was the most accurate. 
 ## Results
